@@ -786,66 +786,6 @@
                             50.3450203,
                             53.5157666
                         ]
-                    ],
-                    [
-                        [
-                            50.3418446,
-                            53.51939
-                        ],
-                        [
-                            50.3421021,
-                            53.5196451
-                        ],
-                        [
-                            50.3442478,
-                            53.5184714
-                        ],
-                        [
-                            50.3440762,
-                            53.5180632
-                        ],
-                        [
-                            50.3432178,
-                            53.517859
-                        ],
-                        [
-                            50.3432178,
-                            53.5185735
-                        ],
-                        [
-                            50.3418446,
-                            53.51939
-                        ]
-                    ],
-                    [
-                        [
-                            50.3413296,
-                            53.5181652
-                        ],
-                        [
-                            50.3415871,
-                            53.5183183
-                        ],
-                        [
-                            50.3416729,
-                            53.517757
-                        ],
-                        [
-                            50.3414898,
-                            53.5174972
-                        ],
-                        [
-                            50.3410721,
-                            53.5173997
-                        ],
-                        [
-                            50.3404713,
-                            53.5176549
-                        ],
-                        [
-                            50.3413296,
-                            53.5181652
-                        ]
                     ]
                 ]
             }
@@ -878,28 +818,6 @@
                         [
                             50.3380728,
                             53.5136164
-                        ]
-                    ],
-                    [
-                        [
-                            50.3311419,
-                            53.5154947
-                        ],
-                        [
-                            50.3317217,
-                            53.5159402
-                        ],
-                        [
-                            50.3322438,
-                            53.5163414
-                        ],
-                        [
-                            50.3327619,
-                            53.5167394
-                        ],
-                        [
-                            50.3333017,
-                            53.5171542
                         ]
                     ],
                     [
@@ -1490,161 +1408,6 @@
         },
         {
             "type": "Feature",
-            "id": "way/643367778",
-            "properties": {
-                "timestamp": "2023-12-02T10:06:41Z",
-                "version": "2",
-                "changeset": "144686181",
-                "user": "desk77",
-                "uid": "3417100",
-                "addr:housenumber": "12",
-                "addr:street": "Лесной проезд",
-                "building": "yes",
-                "source:addr": "ЕГРН",
-                "id": "way/643367778"
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            50.3423271,
-                            53.5122274
-                        ],
-                        [
-                            50.3425414,
-                            53.512226
-                        ],
-                        [
-                            50.3425422,
-                            53.5122701
-                        ],
-                        [
-                            50.342518,
-                            53.5122703
-                        ],
-                        [
-                            50.3425184,
-                            53.512291
-                        ],
-                        [
-                            50.3425648,
-                            53.5122907
-                        ],
-                        [
-                            50.3425658,
-                            53.5123495
-                        ],
-                        [
-                            50.3425263,
-                            53.5123497
-                        ],
-                        [
-                            50.3425266,
-                            53.5123619
-                        ],
-                        [
-                            50.342355,
-                            53.512363
-                        ],
-                        [
-                            50.3423533,
-                            53.5122667
-                        ],
-                        [
-                            50.3423278,
-                            53.5122668
-                        ],
-                        [
-                            50.3423271,
-                            53.5122274
-                        ]
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "way/643367782",
-            "properties": {
-                "timestamp": "2018-11-12T11:48:05Z",
-                "version": "1",
-                "changeset": "64402648",
-                "user": "lamax",
-                "uid": "1860634",
-                "building": "yes",
-                "id": "way/643367782"
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            50.3419197,
-                            53.512082
-                        ],
-                        [
-                            50.3420618,
-                            53.5120777
-                        ],
-                        [
-                            50.3420694,
-                            53.5121678
-                        ],
-                        [
-                            50.3419273,
-                            53.512172
-                        ],
-                        [
-                            50.3419197,
-                            53.512082
-                        ]
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "way/643367784",
-            "properties": {
-                "timestamp": "2018-11-12T11:48:05Z",
-                "version": "1",
-                "changeset": "64402648",
-                "user": "lamax",
-                "uid": "1860634",
-                "landuse": "construction",
-                "id": "way/643367784"
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            50.343189,
-                            53.5120944
-                        ],
-                        [
-                            50.3434868,
-                            53.5120834
-                        ],
-                        [
-                            50.343499,
-                            53.5122005
-                        ],
-                        [
-                            50.3432013,
-                            53.5122116
-                        ],
-                        [
-                            50.343189,
-                            53.5120944
-                        ]
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "id": "way/1202036872",
             "properties": {
                 "timestamp": "2026-04-16T06:01:45Z",
@@ -1769,46 +1532,6 @@
         },
         {
             "type": "Feature",
-            "id": "way/1228209841",
-            "properties": {
-                "timestamp": "2023-12-02T10:06:40Z",
-                "version": "1",
-                "changeset": "144686181",
-                "user": "desk77",
-                "uid": "3417100",
-                "building": "yes",
-                "id": "way/1228209841"
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            50.3429776,
-                            53.5123368
-                        ],
-                        [
-                            50.3429667,
-                            53.5122326
-                        ],
-                        [
-                            50.343088,
-                            53.5122281
-                        ],
-                        [
-                            50.3430989,
-                            53.5123323
-                        ],
-                        [
-                            50.3429776,
-                            53.5123368
-                        ]
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "id": "way/1480587229",
             "properties": {
                 "timestamp": "2026-04-16T06:01:45Z",
@@ -1856,12 +1579,12 @@
             "type": "Feature",
             "id": "way/1480587230",
             "properties": {
-                "timestamp": "2026-04-16T06:01:45Z",
-                "version": "3",
-                "changeset": "181395982",
-                "user": "Grass-snake",
-                "uid": "11321493",
-                "addr:city": "поселок Городцовка",
+                "timestamp": "2026-05-07T18:09:45Z",
+                "version": "4",
+                "changeset": "182351423",
+                "user": "Nikita_Baldin",
+                "uid": "23991780",
+                "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "9",
                 "addr:street": "Борская улица",
                 "building": "house",
@@ -2252,13 +1975,14 @@
             "type": "Feature",
             "id": "way/1493993305",
             "properties": {
-                "timestamp": "2026-05-07T17:52:05Z",
-                "version": "3",
-                "changeset": "182350831",
+                "timestamp": "2026-05-07T18:09:45Z",
+                "version": "4",
+                "changeset": "182351423",
                 "user": "Nikita_Baldin",
                 "uid": "23991780",
-                "addr:city": "КП Лесмой",
+                "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "7",
+                "addr:place": "КП Лесмой",
                 "addr:street": "Ёлочная улица",
                 "building": "house",
                 "building:levels": "1",
@@ -2296,13 +2020,14 @@
             "type": "Feature",
             "id": "way/1493993307",
             "properties": {
-                "timestamp": "2026-05-07T17:52:05Z",
-                "version": "3",
-                "changeset": "182350831",
+                "timestamp": "2026-05-07T18:09:45Z",
+                "version": "4",
+                "changeset": "182351423",
                 "user": "Nikita_Baldin",
                 "uid": "23991780",
-                "addr:city": "КП Лесмой",
+                "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "5",
+                "addr:place": "КП Лесмой",
                 "addr:street": "Ёлочная улица",
                 "building": "house",
                 "building:levels": "2",
@@ -2340,13 +2065,14 @@
             "type": "Feature",
             "id": "way/1493993308",
             "properties": {
-                "timestamp": "2026-05-07T17:52:05Z",
-                "version": "3",
-                "changeset": "182350831",
+                "timestamp": "2026-05-07T18:09:45Z",
+                "version": "4",
+                "changeset": "182351423",
                 "user": "Nikita_Baldin",
                 "uid": "23991780",
-                "addr:city": "КП Лесмой",
+                "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "3",
+                "addr:place": "КП Лесмой",
                 "addr:street": "Ёлочная улица",
                 "building": "house",
                 "building:levels": "1",
@@ -2384,13 +2110,14 @@
             "type": "Feature",
             "id": "way/1493993309",
             "properties": {
-                "timestamp": "2026-05-07T17:52:05Z",
-                "version": "3",
-                "changeset": "182350831",
+                "timestamp": "2026-05-07T18:09:45Z",
+                "version": "4",
+                "changeset": "182351423",
                 "user": "Nikita_Baldin",
                 "uid": "23991780",
-                "addr:city": "КП Лесмой",
+                "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "9",
+                "addr:place": "КП Лесмой",
                 "addr:street": "Ёлочная улица",
                 "building": "house",
                 "building:levels": "1",
@@ -2428,13 +2155,14 @@
             "type": "Feature",
             "id": "way/1493993310",
             "properties": {
-                "timestamp": "2026-05-07T17:52:05Z",
-                "version": "3",
-                "changeset": "182350831",
+                "timestamp": "2026-05-07T18:09:45Z",
+                "version": "4",
+                "changeset": "182351423",
                 "user": "Nikita_Baldin",
                 "uid": "23991780",
-                "addr:city": "КП Лесмой",
+                "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "11",
+                "addr:place": "КП Лесмой",
                 "addr:street": "Ёлочная улица",
                 "building": "house",
                 "building:levels": "1",
@@ -2472,13 +2200,14 @@
             "type": "Feature",
             "id": "way/1493993311",
             "properties": {
-                "timestamp": "2026-05-07T17:52:05Z",
-                "version": "3",
-                "changeset": "182350831",
+                "timestamp": "2026-05-07T18:09:45Z",
+                "version": "4",
+                "changeset": "182351423",
                 "user": "Nikita_Baldin",
                 "uid": "23991780",
-                "addr:city": "КП Лесмой",
+                "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "20",
+                "addr:place": "КП Лесмой",
                 "addr:street": "Борская улица",
                 "building": "house",
                 "building:levels": "1",
@@ -2516,13 +2245,14 @@
             "type": "Feature",
             "id": "way/1493993312",
             "properties": {
-                "timestamp": "2026-05-07T17:52:05Z",
-                "version": "3",
-                "changeset": "182350831",
+                "timestamp": "2026-05-07T18:09:45Z",
+                "version": "4",
+                "changeset": "182351423",
                 "user": "Nikita_Baldin",
                 "uid": "23991780",
-                "addr:city": "КП Лесмой",
+                "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "22",
+                "addr:place": "КП Лесмой",
                 "addr:street": "Борская улица",
                 "building": "house",
                 "building:levels": "2",
@@ -2560,13 +2290,14 @@
             "type": "Feature",
             "id": "way/1493993313",
             "properties": {
-                "timestamp": "2026-05-07T17:52:05Z",
-                "version": "3",
-                "changeset": "182350831",
+                "timestamp": "2026-05-07T18:09:45Z",
+                "version": "4",
+                "changeset": "182351423",
                 "user": "Nikita_Baldin",
                 "uid": "23991780",
-                "addr:city": "КП Лесмой",
+                "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "24",
+                "addr:place": "КП Лесмой",
                 "addr:street": "Борская улица",
                 "building": "house",
                 "building:levels": "1",
@@ -2604,13 +2335,14 @@
             "type": "Feature",
             "id": "way/1493993314",
             "properties": {
-                "timestamp": "2026-05-07T17:52:05Z",
-                "version": "3",
-                "changeset": "182350831",
+                "timestamp": "2026-05-07T18:09:45Z",
+                "version": "4",
+                "changeset": "182351423",
                 "user": "Nikita_Baldin",
                 "uid": "23991780",
-                "addr:city": "КП Лесмой",
+                "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "21",
+                "addr:place": "КП Лесмой",
                 "addr:street": "Борская улица",
                 "building": "house",
                 "building:levels": "1",
@@ -2648,13 +2380,14 @@
             "type": "Feature",
             "id": "way/1493993315",
             "properties": {
-                "timestamp": "2026-05-07T17:52:05Z",
-                "version": "3",
-                "changeset": "182350831",
+                "timestamp": "2026-05-07T18:09:45Z",
+                "version": "4",
+                "changeset": "182351423",
                 "user": "Nikita_Baldin",
                 "uid": "23991780",
-                "addr:city": "КП Лесмой",
+                "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "19",
+                "addr:place": "КП Лесмой",
                 "addr:street": "Борская улица",
                 "building": "house",
                 "building:levels": "2",
@@ -2692,13 +2425,14 @@
             "type": "Feature",
             "id": "way/1493993316",
             "properties": {
-                "timestamp": "2026-05-07T17:52:05Z",
-                "version": "3",
-                "changeset": "182350831",
+                "timestamp": "2026-05-07T18:09:45Z",
+                "version": "4",
+                "changeset": "182351423",
                 "user": "Nikita_Baldin",
                 "uid": "23991780",
-                "addr:city": "КП Лесмой",
+                "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "23",
+                "addr:place": "КП Лесмой",
                 "addr:street": "Борская улица",
                 "building": "house",
                 "building:levels": "1",
@@ -2736,13 +2470,14 @@
             "type": "Feature",
             "id": "way/1493993317",
             "properties": {
-                "timestamp": "2026-05-07T17:52:05Z",
-                "version": "3",
-                "changeset": "182350831",
+                "timestamp": "2026-05-07T18:09:45Z",
+                "version": "4",
+                "changeset": "182351423",
                 "user": "Nikita_Baldin",
                 "uid": "23991780",
-                "addr:city": "КП Лесмой",
+                "addr:city": "сельское поселение Светлое Поле",
                 "addr:housenumber": "25",
+                "addr:place": "КП Лесмой",
                 "addr:street": "Борская улица",
                 "building": "house",
                 "building:levels": "1",
@@ -3669,77 +3404,6 @@
                     [
                         50.3808519,
                         53.4961971
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "way/643367761",
-            "properties": {
-                "timestamp": "2019-04-14T09:47:42Z",
-                "version": "2",
-                "changeset": "69197301",
-                "user": "iWowik",
-                "uid": "481934",
-                "highway": "residential",
-                "name": "Луговой проезд",
-                "id": "way/643367761"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        50.3409413,
-                        53.5124363
-                    ],
-                    [
-                        50.3415234,
-                        53.5120567
-                    ],
-                    [
-                        50.3442672,
-                        53.5102671
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "way/1480587227",
-            "properties": {
-                "timestamp": "2026-05-01T10:53:56Z",
-                "version": "3",
-                "changeset": "182068115",
-                "user": "mulder790",
-                "uid": "5711820",
-                "highway": "unclassified",
-                "lanes": "2",
-                "surface": "compacted",
-                "id": "way/1480587227"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        50.3311419,
-                        53.5154947
-                    ],
-                    [
-                        50.3317217,
-                        53.5159402
-                    ],
-                    [
-                        50.3322438,
-                        53.5163414
-                    ],
-                    [
-                        50.3327619,
-                        53.5167394
-                    ],
-                    [
-                        50.3333017,
-                        53.5171542
                     ]
                 ]
             }
